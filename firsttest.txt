@@ -1,2 +1,2 @@
 <p></p>
-    < class="btn btn-primary" data-bs-toggle="collapse" href="#contentId" aria-e
+    < class="btn btn-primary"/>
