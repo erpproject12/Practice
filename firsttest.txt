@@ -1,0 +1,8 @@
+<p></p>
+    <a class="btn btn-primary" data-bs-toggle="collapse" href="#contentId" aria-expanded="false" aria-controls="contentId">
+        Show
+    </a>
+</p>
+<div class="collapse" id="contentId">
+    
+</div>
